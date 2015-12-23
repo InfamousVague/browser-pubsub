@@ -1,0 +1,28 @@
+{
+  "name": "browser-pubsub",
+  "version": "1.0.0",
+  "description": "PubSub in the browser, across Tabs & Windows.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wski/browser-pubsub"
+  },
+  "keywords": [
+    "publish",
+    "subscribe",
+    "browser",
+    "cross",
+    "tabs",
+    "windows",
+    "localstorage"
+  ],
+  "author": "wski <contact.mattdylan@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wski/browser-pubsub/issues"
+  },
+  "homepage": "https://github.com/wski/browser-pubsub"
+}
