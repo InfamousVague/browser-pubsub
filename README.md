@@ -1,5 +1,6 @@
 # browser-pubsub
-PubSub in the browser, across Tabs & Windows. Just 0.5kb
+
+PubSub in the browser, across tabs & windows. Just 0.5kb
 
 ## Usage
 

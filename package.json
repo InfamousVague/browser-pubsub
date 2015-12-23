@@ -1,7 +1,7 @@
 {
   "name": "browser-pubsub",
-  "version": "1.0.0",
-  "description": "PubSub in the browser, across Tabs & Windows.",
+  "version": "1.0.1",
+  "description": "PubSub in the browser, across tabs & windows. Just 0.5kb",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
